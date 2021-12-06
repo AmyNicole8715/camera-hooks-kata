@@ -2,7 +2,7 @@ import Webcam from "react-webcam";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Webcam />
     </div>
   );
